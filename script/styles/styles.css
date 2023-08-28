@@ -1,0 +1,26 @@
+    /* comentário */
+body{
+        background-color: aquamarine;
+    }
+header{
+        background-color: pink;
+    }
+header  h1{
+        background-color: brown;
+}
+
+main, footer{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+ul{
+        background-color: azure;
+        list-style: none;
+        font-style: italic;
+    }
+li{
+        background-color: cadetblue;
+    }
+footer{
+        font-size: larger;
+    }
